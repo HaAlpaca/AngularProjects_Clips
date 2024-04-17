@@ -22,12 +22,15 @@
     "@ffmpeg/core": "^0.12.6",
     "@ffmpeg/ffmpeg": "^0.11.6",
     "@types/uuid": "^8.3.1",
+    "@types/video.js": "^7.3.58",
+    "@videojs/themes": "^1.0.1",
     "firebase": "^9.1.0",
     "ngx-mask": "^15.1.2",
     "rxfire": "^6.0.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "uuid": "^8.3.2",
+    "video.js": "^8.10.0",
     "zone.js": "~0.13.0"
   },
   "devDependencies": {
